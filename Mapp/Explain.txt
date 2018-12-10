@@ -1,0 +1,8 @@
+
+1.打开项目，运行mian.py
+
+
+2.在spider目录下打开CMD模式：运行scrapy crawl douban_spider执行项目，scrapy crawl douban_spider -o douban.csv 保持当前文件为csv文件
+
+
+3.个人爬虫Scrapy框架入门级小测试
